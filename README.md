@@ -1,7 +1,6 @@
 # NanoWin
 Installs GNU nano on Windows.
 **GNU Nano is licenced with GPL 3.0**
-Also inst
 Requires PowerShell. This script must be run as admin.
 
 ## How to use
